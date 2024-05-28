@@ -23,15 +23,13 @@ You can change the following settings:
 
 **Core Settings**
 
-- `WIFI_SSID` - The SSID of the WiFi network
-- `WIFI_PASS` - The password for the WiFi network
-- `LOGGING_URL` - The URL for the firebase server
-- `USERNAME` - The username for the firebase server
-- `SECRET` - The secret key for the firebase server
+_see `config-example.py` for an example configuration file_
 
 **Sensor settings**
 
-- 
+Some sensors require calibration and configuration based
+on your location. The config contains default settings, but you
+may need to modify them for better results.
 
 
 serial connection
